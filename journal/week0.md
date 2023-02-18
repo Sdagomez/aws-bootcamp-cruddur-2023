@@ -25,7 +25,7 @@ Do not take screenshots when installing it, because I forgot but I am attaching 
 
 ### Verification
 I am attaching the verification that I put my credentials in AWS CLI
-![Verification](assets/comp.png)
+![Verification](assets/comp.jpg)
 
 ### Logical Architectual Diagram
 ![Cruddur Logical Design](assets/Diagramapp.png)
