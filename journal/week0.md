@@ -3,13 +3,13 @@
 ## Homework/Tasks
 
 ### Install and Verify AWS CLI
-Use GItPod para rntalar y verificar AWS CLI
+Use GItPod to install and verify AWS CLI
 
-En ese orden de ideas estpy proporcionando los pasos e instrucciones que use para configurar GitPod
+In that order of ideas I am providing the steps and instructions that I use to configure GitPod
 
-Utilize los siguietnes pasos para instalar AWS CLI
+Use the following steps to install AWS CLI
 
-instale el AWS CLI para linux via comandos en la terminal;
+install the AWS CLI for linux via terminal commands;
 
 I followed the instructions on the [AWS CLI Install Documentation Page]
 (https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
@@ -17,8 +17,8 @@ I followed the instructions on the [AWS CLI Install Documentation Page]
 ### Create a Budget
 
 I created my own Budget for $5 because no puedo permitirme un tipo de gasto adicional .
-Cree una segunda alarma pero la elimine al instante al darme cuenta de que podria tener un costo adicional. 
-Es una herramienta que me parece muy util para mantener controladas mis finanzas dentro de AWS
+I created a second alarm but immediately deleted it realizing it might cost extra.
+It is a tool that I find very useful to keep my finances under control within AWS
 
 ![Image of The Budget Alarm I Created](assets/budget.png) 
 
