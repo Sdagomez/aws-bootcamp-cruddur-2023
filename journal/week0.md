@@ -14,6 +14,15 @@ install the AWS CLI for linux via terminal commands;
 I followed the instructions on the [AWS CLI Install Documentation Page]
 (https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
+```
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
+```
+
+Do not take screenshots when installing it, because I forgot but I am attaching evidence that it was installed correctly
+![Installing AWS CLI](assets/AWSCLIInstall.png)
+
 ### Create a Budget
 
 I created my own Budget for $5 because no puedo permitirme un tipo de gasto adicional .
