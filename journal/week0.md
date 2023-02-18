@@ -23,6 +23,10 @@ sudo ./aws/install
 Do not take screenshots when installing it, because I forgot but I am attaching evidence that it was installed correctly
 ![Installing AWS CLI](assets/AWSCLIInstall.png)
 
+### Verification
+I am attaching the verification that I put my credentials in AWS CLI
+![Verification](assets/comp.png)
+
 ### Logical Architectual Diagram
 ![Cruddur Logical Design](assets/Diagramapp.png)
 
@@ -37,5 +41,5 @@ It is a tool that I find very useful to keep my finances under control within AW
 ![Image of The Budget Alarm I Created](assets/budget.png) 
 
 ### Create billing alarms
-Adjunto prueba de como configure la alarma siguiendo los pasos enseñados por Chirag Nayyar en su video tutorial
+Attached proof of how to set the alarm following the steps taught by Chirag Nayyar in his video tutorial
 ![Billing alarm](assets/Alarm.png)
