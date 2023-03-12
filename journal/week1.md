@@ -84,7 +84,7 @@ docker run -p 3000:3000 -d frontend-react-js
 ![Multiple COntainers](assets/docker-compose.png)
 
 ## I create new notifications backend endpoint
-![Backend notifications endpoint](assets/endpoint-notification.png)
+![Backend notifications endpoint](assets/endpoint-notifications.png)
 
 ## I update openapi to add notifications
 ![Update openapi](assets/openapi.png)
