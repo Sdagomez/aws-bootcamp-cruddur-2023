@@ -31,6 +31,7 @@ ENV FLASK_ENV=development
 EXPOSE ${PORT}
 CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0", "--port=4567"]
 ```
+![Docker-backend](assets/docker-backend.png)
 
 ## Run Container
 Use el siguiente comando para correr el contenedor
@@ -67,6 +68,7 @@ RUN npm install
 EXPOSE ${PORT}
 CMD ["npm", "start"]
 ```
+![Docker-frontend](assets/docker-frontend.png)
 
 ### Run Container
 Use el siguiente comando para correr el contenedor
@@ -76,17 +78,24 @@ docker run -p 3000:3000 -d frontend-react-js
 ```
 
 ## Multiple Containers
+![Multiple COntainers](assets/docker-compose.png)
 
 ### Create a docker-compose file, adding DynamoDB local and Postgres
+![Multiple COntainers](assets/docker-compose.png)
 
-## I create new notifications backen endpoint
+## I create new notifications backend endpoint
+![Backend notifications endpoint](assets/endpoint-notification.png)
 
-## I update open apii to add notifications
+## I update openapi to add notifications
+![Update openapi](assets/openapi.png)
 
 ## I implement frontend notifications page
+![Frontend-notifications-page](assets/notifications-page.png)
 
 ## Correct operation notifications app
+![Notifications page](assets/app-frontend.png)
 
 ## Correct conection database
+![Connection database](assets/Database-connection.png)
 
 
